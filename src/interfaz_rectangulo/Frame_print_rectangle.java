@@ -43,7 +43,7 @@ public class Frame_print_rectangle extends javax.swing.JFrame {
         label_print_area = new javax.swing.JLabel();
         label_print_perimeter = new javax.swing.JLabel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Verdana", 0, 18)); // NOI18N
         jLabel1.setText("Altura:");
